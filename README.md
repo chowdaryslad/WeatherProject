@@ -4,7 +4,7 @@
 
 ## Getting Started 🎧
 
-This project utilized the benefits of multiple technologies such as Javascript, HTML5, CSS, and SCSS.
+This project utilized the benefits of technology such as HTML5, and more.
 
 It's better if we familiarize ourselves with these technologies. 
 
